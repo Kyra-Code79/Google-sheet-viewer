@@ -23,7 +23,7 @@ A Next.js + TypeScript dashboard that fetches data from Google Sheets in real-ti
 
 A live demo can be deployed using [Vercel](https://vercel.com/) once the repository is connected.  
 
-Access on: [Vercel](https://google-sheet-viewer-lake.vercel.app/)
+Access on: [https://google-sheet-viewer-lake.vercel.app/](https://google-sheet-viewer-lake.vercel.app/)
 
 ## Features
 
